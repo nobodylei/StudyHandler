@@ -1,0 +1,1 @@
+include ':app', ':ghostthreadstudy', ':studyasynctask', ':studyasynctask2'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudyHandler.iml" filepath="$PROJECT_DIR$/StudyHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghostthreadstudy/ghostthreadstudy.iml" filepath="$PROJECT_DIR$/ghostthreadstudy/ghostthreadstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyasynctask/studyasynctask.iml" filepath="$PROJECT_DIR$/studyasynctask/studyasynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyasynctask2/studyasynctask2.iml" filepath="$PROJECT_DIR$/studyasynctask2/studyasynctask2.iml" />
+    </modules>
+  </component>
+</project>
